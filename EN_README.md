@@ -1,4 +1,4 @@
-[Switch to Chinese intro <== վ'ᴗ' ի](CN_README.md)
+[Switch to Chinese intro <== վ'ᴗ' ի](README.md)
 ## Hello There! Mr-Pancake🥞's here ^^
 An undergraduate CS student who is currently suffering from tons of program related stuff XD <br>*(since he got none experiences on neither frontend nor backend development :| )*<br>
 *~~By the way, he's also a dumbass~~*![](images/baka.gif)<br>
