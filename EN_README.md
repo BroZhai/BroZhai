@@ -4,7 +4,7 @@ An undergraduate CS student who is currently suffering from tons of program-rela
 *~~By the way, he's also a dumbass~~*![](images/baka.gif)<br>
 <br>
  Anyways, glad u come to my page ^^
- <br>*And you may find a sundry of useless learning journals over here. You may freely clone them and edit yourself<br> **but not for any commercial uses, thanks!***
+ <br>*And you may find a sundry of useless learning journals over here. You may freely clone them and edit yourself<br> **but not for any commercial purposes, thanks!***
 <br>
 
 ## Contacts: https://mr-pancake.carrd.co/
