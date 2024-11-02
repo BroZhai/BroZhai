@@ -7,6 +7,7 @@ An undergraduate CS student who is currently suffering from tons of program-rela
  <br>*And you may find a sundry of useless learning journals over here. You may freely clone them and edit yourself<br> **but not for any commercial purposes, thanks!***
 <br>
 
-## Contacts: https://mr-pancake.carrd.co/
+### Contact: TechNiko_Pancake@qq.com
+###### Carrd Page: https://mr-pancake.carrd.co/
 ![images/cosmic.png](images/cosmic.png)
 *Mr-Pancake 08.07.24*
