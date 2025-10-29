@@ -10,7 +10,7 @@
 <br>
 
 所以，咱在这里开始了"奇怪技术"的自学之路（=´口｀=）<br>
-总之，这里大概就是咱的一个"学习日志站"啦，欢迎~~
+总之，这里大概就是咱的一个"学习日志站"啦，欢迎~~ <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BroZhai&theme=radical&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BroZhai&layout=compact&theme=tokyonight)
 ### 联系邮箱: TechNiko_Pancake@qq.com
 ###### 奇怪链接: https://mr-pancake.carrd.co/
